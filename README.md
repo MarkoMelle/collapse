@@ -1,0 +1,1 @@
+[![collapse](https://github.com/MarkoMelle/collapse/actions/workflows/main.yml/badge.svg)](https://github.com/MarkoMelle/collapse/actions/workflows/main.yml)
